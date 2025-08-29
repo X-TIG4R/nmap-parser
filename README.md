@@ -25,6 +25,8 @@ THIS TOOL IS PROVIDED FOR EDUCATIONAL, AUTHORIZED, AND ETHICAL PURPOSES ONLY.
 -  **Modular Setup:** Can be run directly or installed as a console command.
 
 ---
+###  Running the tool
+![Screenshot 1](assets/run.png)
 
 ##  Sample Output
 
@@ -36,6 +38,10 @@ This tool helps you extract IP, MAC, and Manufacturer info from raw Nmap output.
 [Press Enter to continue...]
 
 Paste your Nmap output (end with an empty line):
+
+###  Past Nmap Output
+![Screenshot 2](assets/parser.png)
+
 
 Nmap scan report for 192.168.1.10
 MAC Address: AA:BB:CC:DD:EE:FF (Cisco Systems)
