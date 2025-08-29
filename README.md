@@ -63,6 +63,7 @@ IP Address	MAC Address	       Manufacturer
 git clone https://github.com/X-TIG4R/nmap-parser.git
 cd nmap-parser
 pip install -r requirements.txt
+python run.py
 
 ### How It Works
 
