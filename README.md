@@ -1,6 +1,6 @@
 #  Nmap Parser
 
-A polished, educational-grade CLI tool to parse raw Nmap scan outputs and list connected devices with IP, MAC, and manufacturer details in a clean, readable format.  
+A tool to parse raw Nmap scan outputs and list connected devices with IP, MAC, and manufacturer details in a clean, readable format.  
 Perfect for network admins, pen-testers, or anyone needing quick visual insight from Nmap results.
 
 ---
@@ -60,8 +60,8 @@ IP Address	MAC Address	       Manufacturer
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/nmap-device-parser.git
-cd nmap-device-parser
+git clone https://github.com/X-TIG4R/nmap-parser.git
+cd nmap-parser
 pip install -r requirements.txt
 
 ### How It Works
@@ -90,6 +90,4 @@ Users must abide by all applicable laws and ethical standards.
 - **Enhancements & Contributions**: Encourages future improvements.
 - **Author & License**: Proper attribution and usage limitations.
 
-Let me know if you'd like help preparing a `LICENSE.md`, adding badges, or even converting this into a template for your repository!
-::contentReference[oaicite:0]{index=0}
 
